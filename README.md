@@ -7,26 +7,26 @@ Made using VSCode version 1.106.1 for mac on apple sillicon.
 <H1>EMPLOYEE MANAGEMENT SYSTEM</H1>
 
 
-<p>Overview:
- This project is a simple employee management system using the Pandas library for the csv/data retention and updating part on a locally stored csv file.</p>
+Overview:
+ This project is a simple employee management system using the Pandas library for the csv/data retention and updating part on a locally stored csv file.
 
- <p>Features:
+ Features:
   Has an admin panel to edit/remove employee ids.
   Saves the data to a local CSV file in realtime so that it can be shared if needed.
   Easy to understand UI
-  Makes sure no single ID is assigned to two employees</p>
+  Makes sure no single ID is assigned to two employees
 
-<p>Tools used:
+Tools used:
   Pandas library to read and write to employees.csv
   random library so that each employee gets a random ID
-  OS library to access file from local disk and clear screen when needed.</p>
+  OS library to access file from local disk and clear screen when needed.
 
-<p>Steps to install & run:
+Steps to install & run:
   Go to the top middle under code and save the repo as a zip, then extract the zip file and run untitled12.py
   or clone this repository and run untitled 12.py in your python interpreter.
-  Made in python version 3.14.0</p>
+  Made in python version 3.14.0
 
-<p>Instructions for testing/use:
+Instructions for testing/use:
   Run the python file.
   Some example employees are added to the csv file, so that you can view list of employees by pressing 3 in the main menu (if you want).
   add employee by pressing 1.Add Employee in the main Manager Menu
@@ -39,7 +39,7 @@ Made using VSCode version 1.106.1 for mac on apple sillicon.
   <img width="1256" height="470" alt="image" src="https://github.com/user-attachments/assets/7af1ac27-3fad-40eb-a2d6-c7f4976899c5" />
   The employee name will change to the new name in the local csv file and after you view the list again.
   <img width="916" height="442" alt="image" src="https://github.com/user-attachments/assets/560696cc-9d1c-4965-b9f8-c419ab75e082" />
-  (As shown, Name1 became Name2)</p>
+  (As shown, Name1 became Name2)
 
 
 
