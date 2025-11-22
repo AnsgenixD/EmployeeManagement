@@ -32,13 +32,16 @@ Instructions for testing/use:
   add employee by pressing 1.Add Employee in the main Manager Menu
   after inputting the name as a string, it should look like this:
   <img width="896" height="328" alt="image" src="https://github.com/user-attachments/assets/62c05689-1049-43b4-8946-45092b80f449" />
+  </br>
   The employee ID generated will be so results will not be the same as shown.
   You can manage employee name by pressing enter, and then 2. Update Employee in the Manager Menu.
   after inputting the password (default is: admin) you will get displayed list of employees and their ID.
   select the ID you want to change the name for.
   <img width="1256" height="470" alt="image" src="https://github.com/user-attachments/assets/7af1ac27-3fad-40eb-a2d6-c7f4976899c5" />
+  </br>
   The employee name will change to the new name in the local csv file and after you view the list again.
   <img width="916" height="442" alt="image" src="https://github.com/user-attachments/assets/560696cc-9d1c-4965-b9f8-c419ab75e082" />
+  </br>
   (As shown, Name1 became Name2)
 
 
