@@ -24,7 +24,8 @@ def add_user():
     #open file to read if duplicates exist
     if os.path.exists(filename):
         df = pd.read_csv(filename)
-
+    else:
+        df = pd.DataFrame(columns=['Name', 'EmployeeID'])
     #after opening the file, make a unique id for it.
 
 
