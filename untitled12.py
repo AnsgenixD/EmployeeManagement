@@ -4,7 +4,8 @@ import os
 
 #password is admin and the filename should ideally be employees.csv
 password = "admin"
-filename = "employees.csv"
+current_folder = os.path.dirname(os.path.abspath(__file__))
+filename = os.path.join(current_folder, "employees.csv")
 
 
 
