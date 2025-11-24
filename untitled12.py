@@ -52,7 +52,7 @@ def show_list():
         print("File not found.")
 
 def update_user():
-    p = str1(input("Enter Password: "))
+    p = str(input("Enter Password: "))
 
     if p == password:
         show_list()
