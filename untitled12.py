@@ -75,7 +75,7 @@ def update_user():
 
 
 while True:
-    os.system('clear') #Pulling up this menu will clear screen to make it look clean.
+    os.system('cls' if os.name == 'nt' else 'clear') #Pulling up this menu will clear screen to make it look clean.
     print("\n--- Manager Window ---")
     print("1. Add Employee")
     print("2. Update Employee")
